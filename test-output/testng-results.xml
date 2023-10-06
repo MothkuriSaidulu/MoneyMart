@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-06T11:02:49 IST" name="Default suite" finished-at="2023-10-06T11:03:25 IST" duration-ms="36525">
+    <groups>
+    </groups>
+    <test started-at="2023-10-06T11:02:49 IST" name="Default test" finished-at="2023-10-06T11:03:25 IST" duration-ms="36525">
+      <class name="Stepdefination.TC02_SignIn_With_exsiting_Customer">
+        <test-method is-config="true" signature="launchWebUrl()[pri:0, instance:Stepdefination.TC02_SignIn_With_exsiting_Customer@1d296da]" started-at="2023-10-06T11:02:49 IST" name="launchWebUrl" finished-at="2023-10-06T11:03:10 IST" duration-ms="20636" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchWebUrl -->
+        <test-method signature="signInWithExsitingCustomer()[pri:0, instance:Stepdefination.TC02_SignIn_With_exsiting_Customer@1d296da]" started-at="2023-10-06T11:03:10 IST" name="signInWithExsitingCustomer" finished-at="2023-10-06T11:03:25 IST" duration-ms="15810" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInWithExsitingCustomer -->
+      </class> <!-- Stepdefination.TC02_SignIn_With_exsiting_Customer -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
