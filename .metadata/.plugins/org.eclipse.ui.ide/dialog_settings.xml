@@ -7,7 +7,11 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+<<<<<<< HEAD
+			<item value="C:\Users\1003413\GitHub_X_Person"/>
+=======
 			<item value="C:\Users\1003413\GitHub_Y_Person"/>
+>>>>>>> 8a8668fca5493efb52d348aee93d0a01b2e1a815
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
 			<item value=""/>
