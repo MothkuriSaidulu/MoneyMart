@@ -19,5 +19,14 @@ public class newbranch {
 		// new X person worked on this
 		
 	}
+	
+	public void new1() {
+		System.out.println("x person did changes in ");
+		System.out.println("x person did changes in ");
+		System.out.println("x person did changes in ");
+		System.out.println("x person did changes in ");
+		System.out.println("x person did changes in ");
+		
+	}
 
 }
